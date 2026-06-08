@@ -21,6 +21,10 @@ Kosten: ~€0,001–0,01 per run (Haiku 4.5).
 - **requests** — Telegram Bot API
 - Pinned versies in `requirements.txt`.
 
+## Bronnen
+- https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+- https://techcrunch.com/category/artificial-intelligence/feed/
+
 ## Mappenstructuur
 
 ```

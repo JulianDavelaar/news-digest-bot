@@ -8,7 +8,6 @@ print("HTTP-status:", feed.get("status"))
 print("Parse-fout?:", feed.bozo)
 if feed.bozo:
     print("Foutmelding:", feed.bozo_exception)
-
 if feed.entries:
     entry = feed.entries[0]
     print("Velden:", list(entry.keys()))
